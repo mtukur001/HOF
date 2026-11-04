@@ -1,5 +1,5 @@
 (() => {
-  const ADMIN_UID = '63ce7d64-838f-4b87-96ce-bbc34249546a';
+  const ADMIN_UID = '44ef2acd-d7d6-4de4-b6ba-c4295168b546';
   const BUCKET = 'product-images';
   const $ = id => document.getElementById(id);
   const say = (id, message) => { $(id).textContent = message || ''; };
